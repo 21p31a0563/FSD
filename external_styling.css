@@ -1,0 +1,8 @@
+.class_selector{
+	border: 2px solid red;
+	background-color: skyblue;
+}
+#ID_selector{
+	font-size: 50px;
+	font-family: monospace;
+}
